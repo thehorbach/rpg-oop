@@ -48,7 +48,6 @@ class ViewController: UIViewController {
             enemy = DevilWizard(startingHp: 60, attackPwr: 15)
         }
         
-        enemy = Kimara(startingHp: 50, attackPwr: 12)
         
         enemyImg.hidden = false
         attackBtn.hidden = false
